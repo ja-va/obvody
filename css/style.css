@@ -114,6 +114,9 @@ ul.treeList  > li > ul > li {
     font-size: 95%;
     cursor:pointer;
     transition: all .3s;
+        white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 ul.treeList  > li > ul > li:hover{

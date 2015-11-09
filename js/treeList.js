@@ -25,10 +25,21 @@
             for(var j = 0; j < data[i].features.length; j++){
                     dataSource[i].sub.push({
                             name: data[i].features[j].properties.nazev,
+                            cislo: data[i].features[j].properties.cislo,
                             id: data[i].features[j].properties.ID,
                         });
                 
             }
+            dataSource[i].sub = dataSource[i].sub.sort(function(a, b){
+                if (a.name > b.name) {
+                    return 1;
+                  }
+                  if (a.name < b.name) {
+                    return -1;
+                  }
+                  // a must be equal to b
+                  return 0;
+            });
         }
 
         var treeListClass = document.createAttribute("class")
@@ -52,8 +63,10 @@
             var subList = document.createElement("ul");
             for(var j = 0; j < dataSource[i].sub.length; j++){
                 var subItem = document.createElement("li");
-                subItem.appendChild(document.createTextNode(dataSource[i].sub[j].name));
+                subItem.appendChild(document.createTextNode(dataSource[i].sub[j].cislo + " | " +  dataSource[i].sub[j].name));
                 subItem.setAttribute("data-obvod-id", dataSource[i].sub[j].id);
+                subItem.setAttribute("title", dataSource[i].sub[j].name);
+
                 subItem.addEventListener("click", addPolygon)
                 subList.appendChild(subItem);
             }
