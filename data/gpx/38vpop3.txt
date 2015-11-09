@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<gpx>
+    <trk>
+        <trkseg>
+            <trkpt lat="49.933837" lon="14.645584" />
+            <trkpt lat="49.932439" lon="14.647113" />
+            <trkpt lat="49.932225" lon="14.647741" />
+            <trkpt lat="49.931535" lon="14.648345" />
+            <trkpt lat="49.931184" lon="14.648403" />
+            <trkpt lat="49.929288" lon="14.651481" />
+            <trkpt lat="49.929155" lon="14.652150" />
+            <trkpt lat="49.927812" lon="14.653957" />
+            <trkpt lat="49.925470" lon="14.649573" />
+            <trkpt lat="49.925057" lon="14.649854" />
+            <trkpt lat="49.923654" lon="14.649600" />
+            <trkpt lat="49.922808" lon="14.649216" />
+            <trkpt lat="49.922447" lon="14.648871" />
+            <trkpt lat="49.921435" lon="14.647082" />
+            <trkpt lat="49.921334" lon="14.646442" />
+            <trkpt lat="49.921480" lon="14.644268" />
+            <trkpt lat="49.921602" lon="14.642861" />
+            <trkpt lat="49.926399" lon="14.644706" />
+            <trkpt lat="49.926629" lon="14.643423" />
+            <trkpt lat="49.927843" lon="14.643386" />
+            <trkpt lat="49.933837" lon="14.645584" />
+        </trkseg>
+    </trk>
+</gpx>
