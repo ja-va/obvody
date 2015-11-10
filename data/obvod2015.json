@@ -1500,8 +1500,8 @@
             "type": "Feature",
             "properties": {
                 "ID": 2039,
-                "cislo": "39",
-                "nazev": "Jesenice Zbraslavská",
+                "cislo": "36",
+                "nazev": "Velké Popovice Komenského",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -2956,8 +2956,8 @@
             "type": "Feature",
             "properties": {
                 "ID": 2036,
-                "cislo": "36",
-                "nazev": "Velké Popovice Komenského",
+                "cislo": "43",
+                "nazev": "Jesenice Nákupní",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3281,7 +3281,7 @@
             "properties": {
                 "ID": 2041,
                 "cislo": "41",
-                "nazev": "JesenicePrůběžná",
+                "nazev": "Jesenice Průběžná",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3343,7 +3343,7 @@
             "properties": {
                 "ID": 2045,
                 "cislo": "45",
-                "nazev": "JeseniceVLázních",
+                "nazev": "Jesenice V Lázních",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3449,7 +3449,7 @@
             "properties": {
                 "ID": 2018,
                 "cislo": "18",
-                "nazev": "OsniceKOboře",
+                "nazev": "Osnice K Oboře",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3631,7 +3631,7 @@
             "properties": {
                 "ID": 2017,
                 "cislo": "17",
-                "nazev": "OsniceHlavní",
+                "nazev": "Osnice Hlavní",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3761,7 +3761,7 @@
             "properties": {
                 "ID": 2040,
                 "cislo": "40",
-                "nazev": "JeseniceUParku",
+                "nazev": "Jesenice U Parku",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3842,8 +3842,8 @@
             "type": "Feature",
             "properties": {
                 "ID": 2003,
-                "cislo": "3",
-                "nazev": "JeseniceZbraslavská",
+                "cislo": "39",
+                "nazev": "Jesenice Zbraslavská",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4099,7 +4099,7 @@
             "properties": {
                 "ID": 2044,
                 "cislo": "44",
-                "nazev": "JeseniceVRoháči",
+                "nazev": "Jesenice V Roháči",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4177,7 +4177,7 @@
             "properties": {
                 "ID": 2048,
                 "cislo": "48",
-                "nazev": "JeseniceMeziDomy",
+                "nazev": "Jesenice Mezi Domy",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4255,7 +4255,7 @@
             "properties": {
                 "ID": 2009,
                 "cislo": "9",
-                "nazev": "VestecŠátalka",
+                "nazev": "Vestec Šátalka",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4341,7 +4341,7 @@
             "properties": {
                 "ID": 2046,
                 "cislo": "46",
-                "nazev": "JeseniceKRybníku",
+                "nazev": "Jesenice K Rybníku",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4439,7 +4439,7 @@
             "properties": {
                 "ID": 2042,
                 "cislo": "42",
-                "nazev": "JeseniceSluneční",
+                "nazev": "Jesenice Sluneční",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4509,7 +4509,7 @@
             "properties": {
                 "ID": 2047,
                 "cislo": "47",
-                "nazev": "JeseniceLomená",
+                "nazev": "Jesenice Lomená",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4555,7 +4555,7 @@
             "properties": {
                 "ID": 2023,
                 "cislo": "23",
-                "nazev": "ZdiměřiceAlbatrosová",
+                "nazev": "Zdiměřice Albatrosová",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4641,7 +4641,7 @@
             "properties": {
                 "ID": 2011,
                 "cislo": "11",
-                "nazev": "VestecOkružníb",
+                "nazev": "Vestec Okružní b",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4727,7 +4727,7 @@
             "properties": {
                 "ID": 2025,
                 "cislo": "25",
-                "nazev": "DobřejoviceJesenická",
+                "nazev": "Dobřejovice Jesenická",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -4909,7 +4909,7 @@
             "properties": {
                 "ID": 2015,
                 "cislo": "15",
-                "nazev": "PrůhoniceMichovka",
+                "nazev": "Průhonice Michovka",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5147,7 +5147,7 @@
             "properties": {
                 "ID": 2026,
                 "cislo": "26",
-                "nazev": "DobřejoviceNaPrůhoně",
+                "nazev": "Dobřejovice Na Průhoně",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5261,7 +5261,7 @@
             "properties": {
                 "ID": 2013,
                 "cislo": "13",
-                "nazev": "PrůhoniceŘíčanská",
+                "nazev": "Průhonice Říčanská",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5374,8 +5374,8 @@
             "type": "Feature",
             "properties": {
                 "ID": 2024,
-                "cislo": "24",
-                "nazev": "ZdiměřiceZdiměřická",
+                "cislo": "12",
+                "nazev": "Průhonice Školní",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5637,7 +5637,7 @@
             "properties": {
                 "ID": 2002,
                 "cislo": "2",
-                "nazev": "HrnčířeKLabeškám",
+                "nazev": "Hrnčíře K Labeškám",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5767,7 +5767,7 @@
             "properties": {
                 "ID": 2001,
                 "cislo": "1",
-                "nazev": "HrnčířeUŠkolky",
+                "nazev": "Hrnčíře U Školky",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5952,8 +5952,8 @@
             "type": "Feature",
             "properties": {
                 "ID": 2043,
-                "cislo": "43",
-                "nazev": "JeseniceNákupní",
+                "cislo": "4",
+                "nazev": "Šeberov Pod Vsí",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -6301,7 +6301,7 @@
             "properties": {
                 "ID": 1033,
                 "cislo": "33",
-                "nazev": "H.KunraticeKVerneráku",
+                "nazev": "H. Kunratice K Verneráku",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -6531,7 +6531,7 @@
             "properties": {
                 "ID": 2005,
                 "cislo": "5",
-                "nazev": "ŠeberovMeziRybníky",
+                "nazev": "Šeberov Mezi Rybníky",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -6633,7 +6633,7 @@
             "properties": {
                 "ID": 2006,
                 "cislo": "6",
-                "nazev": "ŠeberovPodVodojemem",
+                "nazev": "Šeberov Pod Vodojemem",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -6735,7 +6735,7 @@
             "properties": {
                 "ID": 1034,
                 "cislo": "34",
-                "nazev": "H.KunraticeNadŠeberovem",
+                "nazev": "H. Kunratice Nad Šeberovem",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -6832,8 +6832,8 @@
             "type": "Feature",
             "properties": {
                 "ID": 2012,
-                "cislo": "12",
-                "nazev": "PrůhoniceŠkolní",
+                "cislo": "10",
+                "nazev": "Vestec K Remízku",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -6974,8 +6974,8 @@
             "type": "Feature",
             "properties": {
                 "ID": 2010,
-                "cislo": "10",
-                "nazev": "VestecKRemízku",
+                "cislo": "3",
+                "nazev": "Hrnčíře V Úhoru",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -7069,7 +7069,7 @@
             "properties": {
                 "ID": 2014,
                 "cislo": "14",
-                "nazev": "PrůhoniceHole",
+                "nazev": "Průhonice Hole",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -7359,7 +7359,7 @@
             "properties": {
                 "ID": 2007,
                 "cislo": "7",
-                "nazev": "VestecKDubu",
+                "nazev": "Vestec K Dubu",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -7505,7 +7505,7 @@
             "properties": {
                 "ID": 2022,
                 "cislo": "22",
-                "nazev": "ZdiměřiceKeKapli",
+                "nazev": "Zdiměřice Ke Kapli",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -7631,7 +7631,7 @@
             "properties": {
                 "ID": 2008,
                 "cislo": "8",
-                "nazev": "VestecNaSuchých",
+                "nazev": "Vestec Na Suchých",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -7899,7 +7899,7 @@
             "properties": {
                 "ID": 1047,
                 "cislo": "47",
-                "nazev": "KeKateřinkám",
+                "nazev": "Ke Kateřinkám",
                 "Venkov_Mes": "M",
                 "p": "1403-1412",
                 "obvod": "Opatov"
@@ -8083,7 +8083,7 @@
             "properties": {
                 "ID": 1042,
                 "cislo": "42",
-                "nazev": "NadOpatovem",
+                "nazev": "Nad Opatovem",
                 "Venkov_Mes": "M",
                 "p": "2026-2030 1515-1520",
                 "obvod": "Opatov"
@@ -8379,7 +8379,7 @@
             "properties": {
                 "ID": 1059,
                 "cislo": "59",
-                "nazev": "VJezírkách",
+                "nazev": "V Jezírkách",
                 "Venkov_Mes": "M",
                 "p": "1544-1549",
                 "obvod": "Opatov"
@@ -8979,7 +8979,7 @@
             "properties": {
                 "ID": 1013,
                 "cislo": "13",
-                "nazev": "UNovéDálnice",
+                "nazev": "U Nové Dálnice",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -9137,7 +9137,7 @@
             "properties": {
                 "ID": 1035,
                 "cislo": "35",
-                "nazev": "H.KunraticeUrešova",
+                "nazev": "H. Kunratice Urešova",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -10083,7 +10083,7 @@
             "properties": {
                 "ID": 1038,
                 "cislo": "38",
-                "nazev": "ChodovPodVodojemem",
+                "nazev": "Chodov Pod Vodojemem",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -10189,7 +10189,7 @@
             "properties": {
                 "ID": 1037,
                 "cislo": "37",
-                "nazev": "ChodovSkřivanova",
+                "nazev": "Chodov Skřivanova",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -10263,7 +10263,7 @@
             "properties": {
                 "ID": 1039,
                 "cislo": "39",
-                "nazev": "ChodovBartůňkova",
+                "nazev": "Chodov Bartůňkova",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -10419,7 +10419,7 @@
             "properties": {
                 "ID": 1036,
                 "cislo": "36",
-                "nazev": "ChodovKRemízku",
+                "nazev": "Chodov K Remízku",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -11395,7 +11395,7 @@
             "properties": {
                 "ID": 1056,
                 "cislo": "56",
-                "nazev": "KeŠkole",
+                "nazev": "Ke Škole",
                 "Venkov_Mes": "M",
                 "p": "1397  1398",
                 "obvod": "Opatov"
@@ -11641,7 +11641,7 @@
             "properties": {
                 "ID": 1048,
                 "cislo": "48",
-                "nazev": "KeKateřinkám",
+                "nazev": "Ke Kateřinkám",
                 "Venkov_Mes": "M",
                 "p": "1391-1396",
                 "obvod": "Opatov"
@@ -11753,7 +11753,7 @@
             "properties": {
                 "ID": 1058,
                 "cislo": "58",
-                "nazev": "VJezírkách",
+                "nazev": "V Jezírkách",
                 "Venkov_Mes": "M",
                 "p": "1538-1543 1763",
                 "obvod": "Opatov"
@@ -11907,7 +11907,7 @@
             "properties": {
                 "ID": 1032,
                 "cislo": "32",
-                "nazev": "H.KunraticeUZ.Ptáka",
+                "nazev": "H. KunraticeU Z. Ptáka",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
@@ -11961,7 +11961,7 @@
             "properties": {
                 "ID": 1031,
                 "cislo": "31",
-                "nazev": "H.KunraticeHornomlýnská",
+                "nazev": "H. Kunratice Hornomlýnská",
                 "Venkov_Mes": "M",
                 "p": null,
                 "obvod": "Chodov"
