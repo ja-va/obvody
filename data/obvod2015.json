@@ -1501,7 +1501,7 @@
             "properties": {
                 "ID": 2039,
                 "cislo": "36",
-                "nazev": "Velké Popovice Komenského",
+                "nazev": "Jesenice Nákupní",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -2957,7 +2957,7 @@
             "properties": {
                 "ID": 2036,
                 "cislo": "43",
-                "nazev": "Jesenice Nákupní",
+                "nazev": "Šeberov Pod Vsí",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3127,7 +3127,7 @@
             "properties": {
                 "ID": 2004,
                 "cislo": "24",
-                "nazev": "Zdiměřice Zdiměřická",
+                "nazev": "Průhonice Školní",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -3843,7 +3843,7 @@
             "properties": {
                 "ID": 2003,
                 "cislo": "39",
-                "nazev": "Jesenice Zbraslavská",
+                "nazev": "Velké Popovice Komenského",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5375,7 +5375,7 @@
             "properties": {
                 "ID": 2024,
                 "cislo": "12",
-                "nazev": "Průhonice Školní",
+                "nazev": "Vestec K Remízku",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -5953,7 +5953,7 @@
             "properties": {
                 "ID": 2043,
                 "cislo": "4",
-                "nazev": "Šeberov Pod Vsí",
+                "nazev": "Zdiměřice Zdiměřická",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -6833,7 +6833,7 @@
             "properties": {
                 "ID": 2012,
                 "cislo": "10",
-                "nazev": "Vestec K Remízku",
+                "nazev": "Hrnčíře U Školky",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
@@ -6975,7 +6975,7 @@
             "properties": {
                 "ID": 2010,
                 "cislo": "3",
-                "nazev": "Hrnčíře V Úhoru",
+                "nazev": "Jesenice Zbraslavská",
                 "Venkov_Mes": "V",
                 "p": null,
                 "obvod": "venku"
