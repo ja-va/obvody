@@ -27,8 +27,8 @@
                             name: data[i].features[j].properties.nazev,
                             cislo: data[i].features[j].properties.cislo,
                             id: data[i].features[j].properties.ID,
+                            p: data[i].features[j].properties.p
                         });
-                
             }
             dataSource[i].sub = dataSource[i].sub.sort(function(a, b){
                 var aCislo = parseInt( a.cislo ), bCislo = parseInt( b.cislo );
@@ -64,9 +64,17 @@
             var subList = document.createElement("ul");
             for(var j = 0; j < dataSource[i].sub.length; j++){
                 var subItem = document.createElement("li");
-                subItem.appendChild(document.createTextNode(dataSource[i].sub[j].cislo + " | " +  dataSource[i].sub[j].name));
+
+                var text = dataSource[i].sub[j].cislo ;
+                text += " | " +  dataSource[i].sub[j].name;
+                text += dataSource[i].sub[j].p ? " | " +  dataSource[i].sub[j].p : "";
+                subItem.appendChild(document.createTextNode(text));
                 subItem.setAttribute("data-obvod-id", dataSource[i].sub[j].id);
-                subItem.setAttribute("title", dataSource[i].sub[j].name);
+
+                var title = dataSource[i].sub[j].name;
+                title += dataSource[i].sub[j].p ? " | " +  dataSource[i].sub[j].p : "";
+
+                subItem.setAttribute("title", title);
 
                 subItem.addEventListener("click", addPolygon)
                 subList.appendChild(subItem);
