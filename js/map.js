@@ -8,7 +8,7 @@ define([ "text!data/obvod", "text!data/obchod", "text!data/hranice"], function( 
 
 	mapControler.init = function(){
 		var stred = SMap.Coords.fromWGS84(14.549, 49.953);
-		mapa = new SMap(JAK.gel("map"), stred, 10);
+		mapa = new SMap(JAK.gel("map"), stred, 11);
 		mapa.addDefaultLayer(SMap.DEF_BASE).enable();
 		mapa.addDefaultControls();
 	}
