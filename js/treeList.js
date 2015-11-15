@@ -31,10 +31,11 @@
                 
             }
             dataSource[i].sub = dataSource[i].sub.sort(function(a, b){
-                if (a.name > b.name) {
+                var aCislo = parseInt( a.cislo ), bCislo = parseInt( b.cislo );
+                if (aCislo > bCislo) {
                     return 1;
                   }
-                  if (a.name < b.name) {
+                  if (aCislo < bCislo) {
                     return -1;
                   }
                   // a must be equal to b
