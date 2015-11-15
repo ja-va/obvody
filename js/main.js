@@ -10,7 +10,7 @@ require.config({
         "data/obchod": "../data/obchod2015.json",
         "data/obvod": "../data/obvod2015.json",
         "data/obvodMesto": "../data/obvod2015_mesto.json",
-        "data/obvodVenkov": "../data/venku.json",
+        "data/obvodVenkov": "../data/obvod2015_venkov.json",
 
 	},
 	waitSeconds: 15
