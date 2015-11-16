@@ -12,7 +12,7 @@
             "type": "Feature",
             "properties": {
                 "ID": 2035,
-                "cislo": "35",
+                "cislo": "35",49.9214739N,
                 "nazev": "Velké Popovice Lipová",
                 "Venkov_Mes": "V",
                 "p": null,
@@ -215,10 +215,6 @@
                         [
                             14.645536,
                             49.921394
-                        ],
-                        [
-                            14.644268,
-                            49.92148
                         ],
                         [
                             14.646432242952091,
